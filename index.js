@@ -212,7 +212,7 @@ console.log(fruits)
 
 
 function greet(){
-    return greeting = ("welcome to javascript, +" name) 
+    return greeting = ("welcome to javascript, +", name)
 }
 
 
